@@ -13,7 +13,8 @@
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>  1.	Contato diretos com voluntários;
+<td> 
+1.	Contato diretos com voluntários;
 
 2.	Disponibilidade de indivíduos interessados;
 
