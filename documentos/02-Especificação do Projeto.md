@@ -13,7 +13,7 @@
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>1.	Contato diretos com voluntários;
+<td> 1.	Contato diretos com voluntários;
 
 2.	Disponibilidade de indivíduos interessados;
 
@@ -27,15 +27,59 @@
 </tbody>
 </table>
 
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Perfil 02: Voluntários </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Indivíduos que buscam ajudar em causas sociais.</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td> 1.	Contato direto com as organizações;
+
+2.	Acesso a vagas de voluntário com facilidade;
+
+3.	Se identificar com a instituição;
+
+4.	Apoiar projetos sociais;
+
+5.	Sentir que está colaborando para a melhoria da sociedade.
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Perfil 03: Prestador de Serviços à Comunidade (PSC) </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Indivíduos que necessitam realizar medida socioeducativa</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td> 1.	Registro e acompanhamento das horas trabalhadas;
+
+2.	Encontrar associações que aceitam Prestador de Serviços à Comunidade (PSC);
+
+3.	Orientação das tarefas por meio da comunicação direta com as organizações;
+
+4.	Atividades  acessíveis e simples.
+
+
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Histórias de Usuários
 
-[Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
-
-> **Link Útil**:
-> - [Como escrever boas histórias de usuário](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
-[Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
@@ -44,11 +88,7 @@
 
 ## Requisitos do Projeto
 
-[Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
-
 ### Requisitos Funcionais
-
-[Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
