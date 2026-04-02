@@ -6,7 +6,7 @@
 
 `1º semestre/2022`
 
-[Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.]
+[O objetivo geral deste projeto é a criação de uma aplicação web que permita facilitar o processo de inscrição em trabalho voluntário em organizações não governamentais.]
 
 ## Integrantes
 
