@@ -81,10 +81,13 @@
 ## Histórias de Usuários
 
 
-|EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
-|--------------------|---------------------------|----------------------------------|
-| Voluntário         | ...                       | ...                              |
-| ...                | ...                       | ...                              |
+|EU COMO...          | QUERO/PRECISO ...          |PARA ...                          |
+|--------------------|--------------------------- |----------------------------------|
+| Voluntário         | Buscar oportunidade de me 
+                       voluntariar por localização 
+                       e área de interesse.
+                     | ...                        |
+| ...                | ...                        | ...                              |
 
 ## Requisitos do Projeto
 
