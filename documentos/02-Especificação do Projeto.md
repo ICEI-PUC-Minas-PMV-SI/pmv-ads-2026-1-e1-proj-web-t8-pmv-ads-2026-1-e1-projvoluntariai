@@ -88,7 +88,7 @@
 |Voluntário|Me inscrever em uma vaga voluntária.|Que eu possa demonstrar meu interesse em me voluntariar e contribuir para a sociedade.|
 |Prestador de Serviços à Comunidade (PSC)|Encontrar associações que comprovem minhas horas trabalhadas.|Que eu possa cumprir minha carga de horas prescritas.|
 |Prestador de Serviços à Comunidade (PSC)|Acompanhar meu progresso de horas no site.|Que eu possa garantir que estou cumprindo o requisito de carga horária necessária e acompanhar histórico de participação.|
-|Organização|Publicar oportunidades de voluntariado na plataforma.Que pessoas interessadas possam se candidatar para ajudar em nossos projetos.|
+|Organização|Publicar oportunidades de voluntariado na plataforma.|Que pessoas interessadas possam se candidatar para ajudar em nossos projetos.|
 |Organização|Buscar voluntários com habilidades específicas.|Que possamos encontrar pessoas adequadas para determinadas atividades.|
 |Organização|Enviar mensagens para os voluntários inscritos.|Que eu possa alinhar detalhes das atividades e horários com os voluntários.|
 |Organização|Registrar a participação e as horas de trabalho dos voluntários.|Que eu possa acompanhar o engajamento e reconhecer suas contribuições.|
