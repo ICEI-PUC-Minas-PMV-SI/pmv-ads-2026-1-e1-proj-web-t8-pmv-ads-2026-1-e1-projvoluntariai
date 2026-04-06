@@ -99,14 +99,12 @@
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
+| RF-01 |O sistema deve permitir cadastro de usuários voluntário, ONG e PSC na plataforma.|Alta
 |  ...  |  ...                    | ...   |
 
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
-
-[Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
