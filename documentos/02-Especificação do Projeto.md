@@ -99,10 +99,11 @@
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |O sistema deve permitir cadastro de usuários voluntário, ONG e PSC na plataforma.|Alta
-|  ...  |  ...                    | ...   |
-
-**Prioridade: Alta / Média / Baixa. 
+|RF-01|O sistema deve permitir cadastro de usuários voluntário, ONG e PSC na plataforma.|Alta|
+|RF- 02|O sistema deve permitir login e autentificação de usuários.|Alta|
+|RF- 03|O sistema deve permitir que voluntários criem e editem seus perfis com habilidades, interesses e disponibilidade.|Alta|
+|RF- 04|O sistema deve permitir gravar os dados do usuário para fazer login.|Baixa|
+**Prioridade: Alta / Média / Baixa.
 
 ### Requisitos não Funcionais
 
