@@ -18,6 +18,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 As telas do sistema apresentam uma estrutura comum que é apresentada na figura 2. Nesta estrutura existem 2 grandes blocos, descritos a seguir. São eles:
 
 Cabeçalho - local onde estão dispostos o nome da aplicação web e navegação principal do site (menu da aplicação);
+
 Conteúdo - apresenta o conteúdo da tela em questão;
 
 <img width="726" height="515" alt="Captura de tela 2026-04-10 080755" src="https://github.com/user-attachments/assets/56295155-45a7-4322-bbb0-dd1073c70225" />
