@@ -22,9 +22,9 @@ Cabeçalho - local onde estão dispostos o nome da aplicação web e navegação
 Conteúdo - apresenta o conteúdo da tela em questão;
 
 <img width="726" height="515" alt="Captura de tela 2026-04-10 080755" src="https://github.com/user-attachments/assets/56295155-45a7-4322-bbb0-dd1073c70225" />
-
-Figura 2 - Estrutura padrão do sistema
-
+        <fifcaption>Figura 2 - Estrutura padrão do sistema
+ </figure>
+ <hr>
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
