@@ -30,7 +30,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 ![WhatsApp Image 2026-04-10 at 16 22 16](https://github.com/user-attachments/assets/feefd88b-a0f9-4ced-a556-92e5a52ce834)
 
 <figura>
-   <figcapiton>Figura 7 - Página de Login da Tela
+   <figcapiton>Figura 9 - Página de Login da Tela
 </figure>
 <hr>
   
@@ -40,7 +40,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <img width="726" height="515" alt="imagem_redimensionada" src="https://github.com/user-attachments/assets/fd8d9d15-c13e-4b9c-a621-f9dded4d7919" />
 
 <figura> 
-  <figcaption>Figura 10 - Página de Perfil do Usuário</figcaption>
+  <figcaption>Figura 12 - Página de Perfil do Usuário</figcaption>
 </figure>
 <hr>
 
@@ -50,7 +50,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 ![WhatsApp Image 2026-04-10 at 16 22 17 (3)](https://github.com/user-attachments/assets/a1b6ab03-1a2c-4426-8423-37caa8540c6d)
 
 <figura>
-  <figcaption>Figura 11 - Página de Edição de Perfil do Usuário</figcaption>
+  <figcaption>Figura 13 - Página de Edição de Perfil do Usuário</figcaption>
 </figura>
 <hr>
 
@@ -60,7 +60,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 ![WhatsApp Image 2026-04-10 at 16 22 17 (2)](https://github.com/user-attachments/assets/123e6748-3908-40d3-ba30-3242b579d891)
 
 <figura>
-  <figcaption>Figura 12 - Página de Histórico de Vagas</figcaption>
+  <figcaption>Figura 14 - Página de Histórico de Vagas</figcaption>
 </figura>
 <hr>
 
@@ -70,7 +70,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 ![WhatsApp Image 2026-04-10 at 16 22 17 (1)](https://github.com/user-attachments/assets/5912d525-c3a3-4ce1-b48d-6cb45919530c)
 
 <figura>
-  <figcaption>Figura 15 - Página de Perfil da ONG</figcaption>
+  <figcaption>Figura 17 - Página de Perfil da ONG</figcaption>
 </figura>
 <hr>
 
@@ -80,7 +80,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 ![WhatsApp Image 2026-04-10 at 16 22 17](https://github.com/user-attachments/assets/94a257e3-b5e9-4d21-9cc0-b4b4a4f70abe)
 
 <figura>
-  <figcaption>Figura 16 - Página de Edição do Perfil da ONG</figcaption>
+  <figcaption>Figura 18 - Página de Edição do Perfil da ONG</figcaption>
 </figura>
 <hr>
 > **Links Úteis**:
