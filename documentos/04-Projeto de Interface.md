@@ -128,6 +128,13 @@ Figura 6 - Pagina Saiba mais ONG
 Figura 4 - Pagina Quem Somos
 <hr>
 
+<h3>Tela - Vagas</h3>
+<p>A tela “Vagas” em um site de voluntariado e ONGs tem a função de conectar pessoas que querem ajudar com oportunidades reais de atuação.</p>
+
+![vagas 4](https://github.com/user-attachments/assets/c751ec09-a60b-4595-8633-85afdb35e7ed)
+<hr>
+
+
 <h3>Tela - Cadastro de vagas - Etapa 1</h3>
 <p></p>A tela de cadastro de vagas são para as ONGs cadastrarem as informações essenciais com o objetivo de divulgar as vagas disponíveis em nossa plataforma. Para que o cadastro de vaga seja fácil e intuitivo foi separado em etapas. Após o preenchimento dos campos, a ONG tem a possibilidade de ter uma pré-visualização do cadastro realizado. 
 A tela da  etapa 1 é para realizar o Cadastro com as Informações Básicas/Gerais sobre a vaga. 
