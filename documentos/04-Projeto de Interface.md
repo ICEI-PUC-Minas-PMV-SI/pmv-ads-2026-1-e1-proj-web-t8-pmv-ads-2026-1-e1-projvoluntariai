@@ -92,5 +92,4 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <hr>
 
 Tela - Home 
-<hr>
 ![tela home](https://github.com/user-attachments/assets/1e25dd48-01e1-44a9-9a09-2ba8b50df8a7)
