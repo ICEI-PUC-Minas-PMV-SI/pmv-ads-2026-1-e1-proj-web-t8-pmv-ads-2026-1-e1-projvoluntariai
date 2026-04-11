@@ -86,13 +86,7 @@ Figura 2 - Estrutura padrão do sistema
   <figcaption>Figura 18 - Página de Edição do Perfil da ONG</figcaption>
 </figura>
 <hr>
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
->- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
->> - [Figma](https://www.figma.com/)
-<hr>
+
 
 <h3><b>Tela - Home</b></h3>
 <p>A tela inicial do nosso site é o primeiro contato que as pessoas têm com a plataforma, então nós pensamos nela como um espaço simples, direto e inspirador. A ideia é que, logo ao entrar, o usuário já entenda que ali ele pode encontrar oportunidades para ajudar e se conectar com ONGs.</p>
