@@ -18,7 +18,8 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
   <li>Conteúdo - apresenta o conteúdo da tela em questão; 
 </ul>
 <img width="726" height="515" alt="Captura de tela 2026-04-10 080755" src="https://github.com/user-attachments/assets/56295155-45a7-4322-bbb0-dd1073c70225" />
-        <fifcaption>Figura 2 - Estrutura padrão do sistema
+
+Figura 2 - Estrutura padrão do sistema
  </figure>
  <hr>
 
