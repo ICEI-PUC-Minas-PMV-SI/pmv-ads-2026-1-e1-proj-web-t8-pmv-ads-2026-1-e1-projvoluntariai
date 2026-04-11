@@ -5,6 +5,7 @@
 O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de baixa fidelidade que se segue. 
 </ul>
 <img width="732" height="411" alt="Captura de tela 2026-04-10 223546" src="https://github.com/user-attachments/assets/9c8b1f52-a6ff-401e-845b-0a32f0b094d7" />
+     
        <fifcaption>Figura 1 -  Fluxo de telas do usuário
 </figure>
 
