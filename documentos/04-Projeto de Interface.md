@@ -89,6 +89,8 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 >> - [Pencil](https://pencil.evolus.vn/)
 >> - [MarvelApp](https://marvelapp.com/)
 >> - [Figma](https://www.figma.com/)
-
-
+<hr>
+TELA - HOME
+Uma tela home (ou home screen) é a tela principal de um aplicativo, site ou sistema — ou seja, é a primeira coisa que o usuário vê ao entrar.
+![tela home](https://github.com/user-attachments/assets/9c79ac55-1df4-4294-90ba-14ff179cd38d)
 
