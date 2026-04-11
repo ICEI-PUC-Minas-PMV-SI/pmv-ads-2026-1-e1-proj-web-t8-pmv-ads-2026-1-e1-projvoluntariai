@@ -126,6 +126,7 @@ Figura 6 - Pagina Saiba mais ONG
 ![quem somos](https://github.com/user-attachments/assets/7b4127c8-9704-4fdb-9f94-af03cf0baa77)
 
 Figura 4 - Pagina Quem Somos
+<hr>
 
 <h3>Tela - Cadastro de vagas - Etapa 1</h3>
 <p></p>A tela de cadastro de vagas são para as ONGs cadastrarem as informações essenciais com o objetivo de divulgar as vagas disponíveis em nossa plataforma. Para que o cadastro de vaga seja fácil e intuitivo foi separado em etapas. Após o preenchimento dos campos, a ONG tem a possibilidade de ter uma pré-visualização do cadastro realizado. 
