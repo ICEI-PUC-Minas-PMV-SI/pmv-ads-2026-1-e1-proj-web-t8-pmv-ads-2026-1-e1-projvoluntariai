@@ -5,27 +5,8 @@
 O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de baixa fidelidade que se segue. 
 </ul>
 <img width="732" height="411" alt="Captura de tela 2026-04-10 223546" src="https://github.com/user-attachments/assets/9c8b1f52-a6ff-401e-845b-0a32f0b094d7" />
-<img width="726" height="515" alt="cadastro - 8" src="https://github.com/user-attachments/assets/afe334c9-2e82-40cc-9b4a-68401ed16313" />
-<img width="726" height="515" alt="cadastro de usuario - 9" src="https://github.com/user-attachments/assets/09ac1c82-f79e-4b9d-bfb0-f909eedda6f1" />
-     
-Figura 1 -  Fluxo de telas do usuário
-</figure>
-<img width="726" height="515" alt="editar dados - 13" src="https://github.com/user-attachments/assets/1c43a237-f6e1-4a5e-a110-9b96ea87297c" />
-<img width="726" height="515" alt="cadastro de ongs - 14" src="https://github.com/user-attachments/assets/367506cc-320d-4abb-bcde-5ff4aa7509dd" />
 
 
-### Protótipo de baixa fidelidade
-
-As telas do sistema apresentam uma estrutura comum que é apresentada na figura 2. Nesta estrutura existem 2 grandes blocos, descritos a seguir. São eles:
-</ul>
-  <li>Cabeçalho - local onde estão dispostos o nome da aplicação web e navegação principal do site (menu da aplicação);
-  <li>Conteúdo - apresenta o conteúdo da tela em questão; 
-</ul>
-<img width="726" height="515" alt="Captura de tela 2026-04-10 080755" src="https://github.com/user-attachments/assets/56295155-45a7-4322-bbb0-dd1073c70225" />
-
-Figura 2 - Estrutura padrão do sistema
- </figure>
- <hr>
 
 <h3><b>Tela - Login</b></h3>
 <p>A tela de login apresenta um formulário de acesso com campos para e-mail e senha, opção de recuperação de senha e primeiro acesso, além de um botão de entrada, acompanhados de uma área visual institucional com identidade da plataforma e mensagem de apresentação.</p>
@@ -35,6 +16,42 @@ Figura 2 - Estrutura padrão do sistema
 <figura>
    <figcapiton>Figura 9 - Página de Login da Tela
 </figure>
+<hr>
+
+<h3><b>Tela - Inicial de Cadastro de Usuários</b></h3>
+<p>A etapa Inicial de Cadastro de Usuários tem o objetivo identificar como a pessoa deseja prosseguir em nossa plataforma. Dessa forma, é necessário selecionar se é uma ONG ou se é pessoa voluntária. 
+Após a seleção, a plataforma direciona para o cadastro de acordo com o perfil selecionado. </p>
+
+<img width="767" height="519" alt="image" src="https://github.com/user-attachments/assets/6ae8d666-5891-4614-855a-e4fe828fcdff" />
+
+
+Figura - Inicial de Cadastro de Usuários
+<hr>
+
+<h3>Tela - Cadastrar Voluntário <b></b></h3>
+<p>Tela destinada para que a pessoa voluntária realize o seu cadastro na plataforma com sucesso, sendo necessário preencher seus dados gerais e criação de senha.   </p>
+
+<img width="787" height="559" alt="image" src="https://github.com/user-attachments/assets/bdc2a18b-5ebb-4394-9368-bad2cbb84dd5" />
+
+
+Figura - Cadastrar Voluntário
+<hr>
+
+<h3>Tela - Cadastrar ONG <b></b></h3>
+<p>Tela destinada para que a ONG realize o seu cadastro na plataforma com sucesso, sendo necessário preencher seus dados gerais e criação de senha.  </p>
+
+<img width="802" height="550" alt="image" src="https://github.com/user-attachments/assets/c501ff57-c872-4a57-ae59-6c83101bb3e5" />
+
+
+Figura - Cadastrar ONG
+<hr>
+
+<h3>Tela - Edição de Dados do Usuário <b></b></h3>
+<p>Caso seja necessário a edição de dados, o usuário possui a possibilidade de alterar seus dados básicos e realizar a alteração de senha. </p>
+
+<img width="775" height="558" alt="image" src="https://github.com/user-attachments/assets/460cd623-0a5f-4c31-ac69-e9a3e38700a2" />
+
+Figura - Edição de Dados do Usuário
 <hr>
   
 <h3><b>Tela - Perfil de Usuário</b></h3>
