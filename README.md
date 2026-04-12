@@ -4,7 +4,7 @@
 
 `Desenvolvimento de aplicação web front-end`
 
-`1º semestre/2022`
+`1º semestre/2026`
 
 O objetivo geral deste projeto é a criação de uma aplicação web que permita facilitar o processo de inscrição de trabalho voluntário em organizações não governamentais.
 
