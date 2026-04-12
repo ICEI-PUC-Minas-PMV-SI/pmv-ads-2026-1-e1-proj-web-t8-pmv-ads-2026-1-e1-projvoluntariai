@@ -8,6 +8,8 @@ As páginas terão como elementos padrões o menu de navegação, o header e ele
 <li>Cores: #976DD0, #969FAA, #DED2EE;</li>
 <li>Font-family: Lato;</li>
 </ul> 
+<hr>
+<hr>
 
 
 
