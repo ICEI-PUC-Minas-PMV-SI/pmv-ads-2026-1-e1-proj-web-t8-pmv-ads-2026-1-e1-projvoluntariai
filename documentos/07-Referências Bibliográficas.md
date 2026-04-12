@@ -4,3 +4,4 @@ OLIVEIRA, Susana. Número de animais abandonados no Brasil segue alarmante. Disp
 
 Brasil tem 358 mil pessoas em situação de rua. Levantamento é de Observatório ligado à UFMG – Universidade Federal de Minas Gerais. Disponível em: <https://www.ufmg.br/comunicacao/radio-ufmg-educativa/publicacoes/noticias-externas/brasil-tem-358-mil-pessoas-em-situacao-de-rua-levantamento-e-de-observatorio-ligado-a-ufmg/>. Acesso em 11/03/2026
 
+AIDAR, Laura. Cor Verde: significado. Disponível em:https://www.significados.com.br/cor-verde/. Acesso em: 12 de abril de 2026.
