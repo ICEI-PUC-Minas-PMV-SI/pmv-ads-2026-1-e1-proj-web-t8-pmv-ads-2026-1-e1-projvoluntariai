@@ -165,3 +165,21 @@ Caso encontre inconsistência nos dados cadastrados, é possível "voltar" nas e
 
 Figura 22 - Preview de Cadastro de Vaga
 <hr>
+
+<h3> Tela - Gerenciar inscritos da vaga </h3>
+<p></p>Nesta tela, a ONG tem acesso a uma visão geral de todos os usuários interessados em colaborar com seus projetos. A interface utiliza um sistema de cards que exibe informações cruciais para a triagem, como nome, idade, região e o histórico de horas dedicadas ao voluntariado.
+
+A tela conta com um sistema de filtros para otimizar a busca por perfis específicos e oferece um canal direto de comunicação através do botão "Chat com Inscrito", permitindo que a organização inicie o contato de forma ágil e centralizada.
+<p></p>
+<img width="1440" height="1024" alt="7e35987bc971466bbcaec94a773db386" src="https://github.com/user-attachments/assets/bae69374-3e90-4589-a876-162b609f1619" />
+Figura 23 - Pagina gerenciar inscritos da vaga
+<hr>
+
+<h3> Tela - Chat com a ONG </h3>
+<p></p>A tela de Chat funciona como o ponto de convergência entre a organização e o voluntário, facilitando o alinhamento de expectativas e detalhes logísticos das vagas. A interface foi projetada para ser intuitiva, apresentando o status de disponibilidade da ONG e indicadores de digitação em tempo real.
+
+O campo de interação permite não apenas a troca de mensagens de texto, mas também o envio de arquivos e fotos através de botões de anexo, garantindo que o envio de documentos ou materiais de apoio ocorra sem a necessidade de migrar para ferramentas externas de comunicação.
+<p></p>
+<img width="1440" height="1024" alt="7e080e69162b4fc697b33fbef5bdddda" src="https://github.com/user-attachments/assets/f3403c13-3646-4f41-932f-24013740f0bd" />
+Figura 24 - Pagina Chat com a ONG
+<hr>
