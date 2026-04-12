@@ -11,6 +11,10 @@ As páginas terão como elementos padrões o menu de navegação, o header e ele
 <hr>
 <hr>
 
+<p>Para a criação do logotipo do site foi utilizada a cor verde e roxo claro, a cor verde em especial foi escolhida por representar esperança. A utilização da imagem de duas mãos formando um coração foi escolhida pelo fato de que realizar um trabalho voluntário é um gesto de amor e solidariedade.</p>
+
+
+![pin](https://github.com/user-attachments/assets/7c6df547-4360-4631-ae66-beac1bc9d252)
 
 
 
