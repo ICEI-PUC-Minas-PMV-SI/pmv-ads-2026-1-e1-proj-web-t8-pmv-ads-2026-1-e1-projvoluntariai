@@ -1,0 +1,147 @@
+/* CSS */
+*{
+    margin:0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Lato',Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #FFFFFF;
+    color: #969FAA;
+}
+
+/*HEADER*/
+
+.topo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 40px;
+    background-color: white;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.logo {
+    font-weight: 600;
+    color: white;
+    background-color: #8b5cf6;
+    padding: 6px 12px;
+    border-radius: 8px;
+    font-size: 14px;
+}
+
+nav a {
+    margin-left: 30px;
+    text-decoration: none;
+    color: #6b7280;
+    font-size: 15px;
+    transition: 0.2s;
+}
+
+nav a:hover {
+    color: #111827;
+}
+
+nav a.ativo {
+    background-color: #f3f4f6;
+    padding: 6px 12px;
+    border-radius: 6px;
+    color: #111827;
+    font-weight: 500;
+}
+
+/*CONTEÚDO*/
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 80px 20px;
+}
+
+.container h2,
+.container p {
+    text-align: left;
+}
+
+.container h2 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #4b5563;
+    margin-bottom: 10px;
+}
+
+.container p {
+    font-size: 18px;
+    color: #9ca3af;
+}
+
+/*CARDS*/
+
+.opcoes {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 80px;
+}
+
+.card {
+    width: 280px;
+    height: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.roxo {
+    background-color: #a78bfa ;
+}
+
+.verde {
+    background-color: #86efac;
+    color: #FFFFFF;
+}
+
+/*BOTÕES*/
+
+.acoes {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+button{
+    padding: 14px 28px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.cancelar {
+    background-color: #9ca3af;
+    color: white;
+}
+
+.continuar {
+    background-color: #8b5cf6;
+    color:white
+}
+
+button:hover {
+    opacity: 0.9;
+    transform: translateY(-1px);
+}
