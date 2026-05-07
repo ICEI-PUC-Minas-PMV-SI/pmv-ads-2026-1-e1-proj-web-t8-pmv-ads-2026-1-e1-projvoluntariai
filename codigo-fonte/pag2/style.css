@@ -1,0 +1,154 @@
+*{
+    margin:0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Lato',Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: linear-gradient(to right, #f6f7fb, #eef1f7);
+}
+.topo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 40px;
+    background-color: white;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.logo {
+    font-weight: 600;
+    color: white;
+    background-color: #8b5cf6;
+    padding: 6px 12px;
+    border-radius: 8px;
+    font-size: 14px;
+}
+    nav a {
+    margin-left: 30px;
+    text-decoration: none;
+    color: #6b7280;
+    font-size: 15px;
+    transition: 0.2s;
+}
+
+nav a:hover {
+color: rgb(162, 76, 196);
+    background-color: #f3f4f6;
+    border-radius: 6px;  
+    padding: 7px;
+}
+
+nav a.ativo {
+    background-color: #f3f4f6;
+    padding: 6px 12px;
+    border-radius: 6px;
+    color: rgb(162, 76, 196);
+    font-weight: 500;
+}
+.titulo1{
+    font-size: 32px;
+margin-top: 20px;
+margin-left: 30px;
+}
+#p_1{
+    margin-left: 30px;
+}
+#tit_2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+margin-bottom: 20px;
+}
+input[type="date"] {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.formulario1{
+    background-color: white;
+    max-width: 400px;
+    padding: 30px;
+    margin-top: 0px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    border-radius: 15px;   
+}
+label{
+    font-size: 18px;
+    font-weight: 500;
+}
+span{
+    color:red;
+}
+input{
+    padding: 12px;
+    border-radius: 6px;
+    width: 100%;
+}
+button{
+    margin-top: 10px;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+}
+.cancelar{
+    background-color: grey;
+    padding: 12px 20px;
+    font-size: 14px;
+    color:white;
+}
+.salvar{
+    background-color:rgb(154, 55, 247);
+    color: white;
+    white-space: nowrap;
+    padding:12px 20px;
+    font-size: 14px;
+}
+.botoes{
+    margin-top: 40px;
+    display: flex;
+    max-width: 400px;
+    gap: 300px;
+}
+
+.mensagem {
+    padding: 12px;
+    margin-top: 10px;
+    border-radius: 8px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* erro */
+.mensagem.erro {
+    background-color: #ffe5e5;
+    color: #d60000;
+    border: 2px solid #d60000;
+}
+
+/* sucesso */
+.mensagem.sucesso {
+    background-color: #e6ffe6;
+    color: #008000;
+    border: 2px solid #008000;
+}
+
+/* neutro */
+.mensagem.info {
+    background-color: #f0f0f0;
+    color: #333;
+}
+.input-erro {
+    border: 2px solid red;
+    background-color: #ffecec;
+}
+
+.input-ok {
+    border: 2px solid green;
+    background-color: #ecffec;
+}

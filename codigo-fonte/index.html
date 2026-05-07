@@ -1,41 +1,54 @@
 <!DOCTYPE html>
-<html lang = "pt-BR">
-  <head>
-    <meta charset = "UTL-8">
-    <title> VoluntariAI </title>
-    <link rel = "stylesheet" href="style.css">
-  </head>
-
-  <body> 
-
-  <header class = "topo">
+<html lang="en">
+<head>
+   <title>VoluntariAI Cadastro de vagas</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class = "topo">
     <div class = "logo">VoluntariAI</div>
     <nav>
       <a href="#">Sobre</a>
-      <a href="#">Quem Somos</a>
+      <a href="#">Quem Somos </a>
       <a href="#">Vagas</a>
       <a href="#" class="ativo">Perfil</a>
     </nav>
   </header>
 
-  <main class = "container">
-
-    <h2>Como você quer participar da plataforma? </h2>
-    <p>Escolha o seu perfil para continuar o cadastro</p>
-    <br>
-
-  </br>
-    <div class="opcoes">
-      <div class = "card roxo">Sou uma ONG</div>
-      <div class = "card verde">Sou voluntária</div>
-    </div>
-
-    <div class="acoes">
-  <button class="cancelar">Cancelar</button>
-  <button class="continuar">Continuar</button>
+    <h1 id="tit_1" class="titulo1"> 
+        Cadastrar vagas 
+</h1>
+<p id="p_1">
+    Cadastre oportunidades de voluntariado
+</p>
+<div class="formulario1">
+<h2 id="tit_2" class="titulos">
+    Etapa 1-Informações Gerais
+</h2>
+<div class="formulario">
+<form method="post" id="formVaga">
+<label>Título da vaga<span>*</span></label>
+<textarea id="tituloDaVaga" rows="1" cols="70"></textarea>
+ <label>Modalidades<span id="asterisco">*</span></label>
+<select id="opcModalidades" aria-colspan="70">
+<option value=""></option>
+    <option value="remoto">Remoto</option>              
+<option value="presencial">Presencial</option>
+<option value="hibrido">Híbrido</option>
+</select>
+<label>Localização<span>*</span></label>
+<textarea id="localizacao" rows="1" cols="70"></textarea>
+<label>Número de Vagas<span>*</span></label>
+<input type="number" id="numeroVagas"> 
 </div>
-
-</main>
-
-  </body>
+</div>
+<div class="botoes">
+<br><button class="cancelar" type="reset" id="btnCancelar">Cancelar</button></br>
+<button class="salvar" type="submit" id="btnSalvar">Salvar Dados</button>
+</div>
+</form>
+<script src="script.js"></script>
+</body>
 </html>

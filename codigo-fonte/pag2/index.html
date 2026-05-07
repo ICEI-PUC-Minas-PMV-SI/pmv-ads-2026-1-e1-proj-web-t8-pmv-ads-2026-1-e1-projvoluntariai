@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title>VoluntariAI Cadastro de vagas</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class = "topo">
+    <div class = "logo">VoluntariAI</div>
+    <nav>
+      <a href="#">Sobre</a>
+      <a href="#">Quem Somos </a>
+      <a href="#">Vagas</a>
+      <a href="#" class="ativo">Perfil</a>
+    </nav>
+  </header>
+   <h1 id="tit_1" class="titulo1"> 
+        Cadastrar vagas 
+</h1>
+<p id="p_1">
+    Cadastre oportunidades de voluntariado
+</p>
+    <form id="formEtapa2">
+<div class="formulario1">
+<h2 id="tit_2" class="titulos">
+    Etapa 2-Detalhes da vaga
+</h2>
+<label for="data">Selecione a data de início da divulgação<span>*</span></span></label>
+<input type="date" id="data" name="data"
+       value="2026-05-06"
+       min="2020-01-01" max="2050-12-31">
+      <br><label for="data2">Selecione a data de término da divulgação<span>*</span></span></label>
+<input type="date" id="data2" name="data"
+       value="2026-05-06"
+       min="2020-01-01" max="2050-12-31">
+<br><label>Mencione a carga horária semanal necessária</label>
+<input type="time" id="hora">
+</div>
+<div class="botoes">
+<br><button class="cancelar" type="reset" id="btnCancelar">Cancelar</button></br>
+<button class="salvar" type="submit" id="btnSalvar">Salvar Dados</button>
+</div>
+</form>
+<script src="script.js"></script>
+</body>
+</html>

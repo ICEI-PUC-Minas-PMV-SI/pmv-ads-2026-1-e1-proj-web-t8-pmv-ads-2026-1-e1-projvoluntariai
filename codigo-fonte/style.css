@@ -1,4 +1,3 @@
-/* CSS */
 *{
     margin:0;
 padding: 0;
@@ -7,12 +6,22 @@ font-family: 'Lato',Arial, Helvetica, sans-serif;
 }
 
 body {
-    background-color: #FFFFFF;
-    color: #969FAA;
+background: linear-gradient(to right, #f6f7fb, #eef1f7);
+ }
+
+#p_1
+{
+color: lightslategray;
+font-family: Arial, Helvetica, sans-serif;
+ margin-left: 30px;
 }
-
-/*HEADER*/
-
+span{
+    color:red;
+}
+a{
+    color: rgb(61, 61, 61);
+    text-decoration: none;
+}
 .topo {
     display: flex;
     justify-content: space-between;
@@ -30,8 +39,7 @@ body {
     border-radius: 8px;
     font-size: 14px;
 }
-
-nav a {
+    nav a {
     margin-left: 30px;
     text-decoration: none;
     color: #6b7280;
@@ -41,107 +49,79 @@ nav a {
 
 nav a:hover {
     color: #111827;
+
+color: rgb(162, 76, 196);
+    background-color: #f3f4f6;
+    border-radius: 6px;  
+    padding: 7px;
 }
 
 nav a.ativo {
     background-color: #f3f4f6;
     padding: 6px 12px;
     border-radius: 6px;
-    color: #111827;
+    color: rgb(162, 76, 196);
     font-weight: 500;
 }
 
-/*CONTEÚDO*/
 
-.container {
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 80px 20px;
-}
-
-.container h2,
-.container p {
-    text-align: left;
-}
-
-.container h2 {
+.titulo1{
     font-size: 32px;
-    font-weight: 700;
-    color: #4b5563;
-    margin-bottom: 10px;
+margin-top: 20px;
+margin-left: 30px;
 }
-
-.container p {
-    font-size: 18px;
-    color: #9ca3af;
+.formulario{
+display: flex;
+flex-direction: column;
 }
-
-/*CARDS*/
-
-.opcoes {
+#tit_2{
     display: flex;
     justify-content: center;
-    gap: 50px;
-    margin-bottom: 80px;
-}
-
-.card {
-    width: 280px;
-    height: 160px;
-    display: flex;
     align-items: center;
-    justify-content: center;
-    border-radius: 16px;
+margin-bottom: 20px;
+}
+.formulario1{
+    background-color: white;
+    max-width: 400px;
+    padding: 30px;
+    margin-top: 0px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    border-radius: 15px;   
+}
+label{
     font-size: 18px;
-    color: white;
-    font-weight: bold;
-    cursor: pointer;
-    transition: 0.3s;
+    font-weight: 500;
+
 }
-
-.card:hover {
-    transform: scale(1.05);
+input, select, textarea{
+    padding: 12px;
+    border-radius: 6px;
+    width: 100%;
 }
-
-.roxo {
-    background-color: #a78bfa ;
-}
-
-.verde {
-    background-color: #86efac;
-    color: #FFFFFF;
-}
-
-/*BOTÕES*/
-
-.acoes {
-    max-width: 1000px;
-    margin: 0 auto;
-    display: flex;
-    justify-content: space-between;
-    
-}
-
 button{
-    padding: 14px 28px;
+    margin-top: 10px;
+    padding: 12px 20px;
     border: none;
-    border-radius: 10px;
     cursor: pointer;
-    font-size: 16px;
-    font-weight: 600;
+    border-radius: 8px;
 }
-
-.cancelar {
-    background-color: #9ca3af;
+.cancelar{
+    background-color: grey;
+    padding: 12px 20px;
+    font-size: 14px;
+    color:white;
+}
+.salvar{
+    background-color:rgb(154, 55, 247);
     color: white;
+    white-space: nowrap;
+    padding:12px 20px;
+    font-size: 14px;
 }
-
-.continuar {
-    background-color: #8b5cf6;
-    color:white
-}
-
-button:hover {
-    opacity: 0.9;
-    transform: translateY(-1px);
+.botoes{
+    margin-top: 40px;
+    display: flex;
+    max-width: 400px;
+    gap: 300px;
 }
